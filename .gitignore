@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+/X_test.txt
+/tidyData.txt
+/activity_labels.txt
+*.html
+*.txt
+*.Rproj
