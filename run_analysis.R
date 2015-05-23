@@ -139,6 +139,8 @@ if (cleanUp[5]) {
     remove(activityDataSet)
 }
 
-write.table(tidyDataSet, "TidyData.txt", row.name = FALSE)
+remove(cleanUp)
+
+write.table(tidyDataSet, "tidyData.txt", row.name = FALSE)
 
 
