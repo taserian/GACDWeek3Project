@@ -1,10 +1,3 @@
----
-title: "Codebook"
-author: "Antonio Rodriguez"
-date: "05/23/2015"
-output: html_document
----
-
 # Codebook.md
 
 ## Summarizing Human Activity Recognition Using Smartphones Dataset 

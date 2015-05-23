@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Antonio Rodriguez"
-date: "05/23/2015"
-output: html_document
----
-
 # Human Activity Recognition Using Smartphones Data Set
 
 This is the Getting and Cleaning Data Week 3 course assignment. It involves processing the files corresponding to the Human Activity Recognition Using Smartphones Data Set that was built from recordings of 30 subjects performing activities of dailiy living while carrying a waist-mounted smartphone with embedded inertial sensors.
